@@ -6,7 +6,7 @@ Get started with this sample, which is an online store that consists of three mi
 ### To get started, click this button:
 [![Create Toolchain](https://console.bluemix.net/devops/graphics/create_toolchain_button.png)](https://console.bluemix.net/devops/setup/deploy?repository=https://github.com/hmagph/gh-micros-nodra&refreshServices)
  
-EU-GB: [![Create Toolchain](https://console.bluemix.net/devops/graphics/create_toolchain_button.png)](hhttps://devops.eu-gb.bluemix.net/devops/setup/eploy?repository=https://github.com/hmagph/gh-micros-nodra&refreshServices)
+EU-GB: [![Create Toolchain](https://console.bluemix.net/devops/graphics/create_toolchain_button.png)](hhttps://devops.eu-gb.bluemix.net/devops/setup/deploy?repository=https://github.com/hmagph/gh-micros-nodra&refreshServices)
 
 ---
 ### Learn more 
