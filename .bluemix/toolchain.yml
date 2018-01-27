@@ -24,7 +24,7 @@ toolchain:
   template:
     getting_started:
       $ref: "#/messages/template.gettingStarted"
-  name: 'microservices-toolchain-{{timestamp}}'
+  name: 'microsnodra-{{timestamp}}'
 services:
   orders-api-build:
     service_id: pipeline
